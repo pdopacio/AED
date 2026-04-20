@@ -1,8 +1,11 @@
 # AED
 
-Repositorio personal para la materia **Algoritmos y Estructuras de Datos**.
+Repositorio personal AED
 
-- Nombre: Pedro Dopacio
-- Comisión: K1053
+- Algoritmos y Estructuras de Datos
+- Curso: K1053
+- Año de cursada: 2026
 - Legajo: 222.279-6
+- Nombre: Pedro Dopacio
+
 
